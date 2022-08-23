@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: warniaha.github.io
+Token: c250f32ab23557893984a86240d9618c6a5114902b32e0000579056b01d577cb
