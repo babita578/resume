@@ -19,6 +19,7 @@
   --bs-orange: #bd5d38;
   --bs-yellow: #ffc107;
   --bs-green: #198754;
+  --bs-minty: #78c2ad
   --bs-teal: #20c997;
   --bs-cyan: #0dcaf0;
   --bs-black: #000;
@@ -34,7 +35,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #bd5d38;
+  --bs-primary: #78c2ad;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
